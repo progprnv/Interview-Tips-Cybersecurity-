@@ -24,6 +24,6 @@ Errors are information. Interviews are the best way to expose your weak spots. T
 Be genuinely grateful that you are able to meet, be tested by and ask questions to experts in your field. This is extremely great for your professional growth irrespective if you get the job or not.
 
 
-# Tip 3:
+### Tip 3:
 
 
