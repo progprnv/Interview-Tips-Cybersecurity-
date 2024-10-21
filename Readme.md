@@ -24,6 +24,7 @@ Errors are information. Interviews are the best way to expose your weak spots. T
 Be genuinely grateful that you are able to meet, be tested by and ask questions to experts in your field. This is extremely great for your professional growth irrespective if you get the job or not.
 
 
+
 ### Tip 3: (Phone call interview)
 
 This isn’t your first remote gig - you have worked remote before, in fact you’ve had three years experience. Make sure that they understand this, you have skills that have enabled you to successfully graduate that are transferable to success in a job role and experience that shows you can be a success in working remotely.
