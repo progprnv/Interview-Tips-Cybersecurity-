@@ -42,3 +42,10 @@ i believe i would be an asset because xyz
 i recall you mentioned/we discussed abc
 
 https://www.reddit.com/r/WFH/comments/18j6b4i/first_time_remote_job_interview/
+
+
+### Tip 4: RESUME PROFILING
+
+> Make sure you had specified work exp/project/activities/Achievements accordingly to the job domain.
+> Showcase HOFs and BBs..it will make the hr to know you have been passionately approaching this job.
+> Make projects regarding to cybersec field.
