@@ -7,7 +7,7 @@ This is the primo opportunity present yourself in the best light possible. For t
 
 https://robertscocca.medium.com/most-common-pentesting-interview-questions-45edb8420b96
  
-
+ 
 
 ### Tip 2:
 General interviewing(remote) tips:
