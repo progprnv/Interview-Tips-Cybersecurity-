@@ -9,7 +9,7 @@ https://robertscocca.medium.com/most-common-pentesting-interview-questions-45edb
  
  
 
-### Tip 2:
+### Tip 2:  
 General interviewing(remote) tips:
 
 Dress in a nice dress shirt and sweat pants.
