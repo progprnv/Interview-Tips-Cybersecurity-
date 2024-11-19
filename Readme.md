@@ -1,5 +1,5 @@
 
-# Job Hunting Step 0🛑
+# Job Hunting STEP 0🛑
 
 ✅ 
 Building Resume for freshers:
@@ -20,7 +20,8 @@ good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-e
 
 
 
-# ☆ Interview Tips you should know (includes for all job domains) STEP 01🛑
+# ☆ Interview Tips you should know STEP 01🛑
+(includes for all job domains)
 
 
 ### Tip 1:
