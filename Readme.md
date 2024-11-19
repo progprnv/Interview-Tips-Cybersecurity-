@@ -1,5 +1,5 @@
 
-# Job Hunting Step 0
+# Job Hunting Step 0🛑
 
 ✅ 
 Building Resume for freshers:
