@@ -20,7 +20,7 @@ good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-e
 
 
 
-# ☆ Interview Tips you should know (includes for all job domains)
+# ☆ Interview Tips you should know (includes for all job domains) STEP 01🛑
 
 
 ### Tip 1:
