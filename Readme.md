@@ -1,3 +1,25 @@
+
+# Job Hunting Step 0
+
+✅ 
+Building Resume for freshers:
+
+
+
+
+✅
+Building a good Resume for experienced professionals:
+good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-engineer-a-300-000-job-at-google-8c5a1ecff40f
+
+
+
+
+
+
+
+
+
+
 # ☆ Interview Tips you should know (includes for all job domains)
 
 
