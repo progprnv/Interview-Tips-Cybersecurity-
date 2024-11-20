@@ -19,7 +19,6 @@ good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-e
 
 
 
-
 # ☆ Interview Tips you should know STEP 01🛑
 (includes for all job domains)
 
