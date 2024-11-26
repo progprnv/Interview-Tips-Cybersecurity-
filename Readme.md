@@ -13,6 +13,10 @@ Building a good Resume for experienced professionals:
 good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-engineer-a-300-000-job-at-google-8c5a1ecff40f
 
 
+# Approaching a company/org STEP 1🛑
+
+Get your resume and cover letter ready for applying to a LOT of roles. I don't exaggerate when I say that you should apply for several jobs a day when you're on the job hunt. It's tedious, but it's a numbers game.
+
 
 
 
@@ -20,7 +24,7 @@ good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-e
 
 
 
-# ☆ Interview Tips you should know STEP 01🛑
+# ☆ Interview Tips you should know STEP 1.1🛑
 (includes for all job domains)
 
 
