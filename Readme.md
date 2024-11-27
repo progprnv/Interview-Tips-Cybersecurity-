@@ -19,7 +19,7 @@ Get your resume and cover letter ready for applying to a LOT of roles. I don't e
 
 
 
-*** Different Job Roles have different style of writing resume. That said, if you are opting for a developer position you might need a different style of usage of keywords and format which is different from a Cybersecurity Job Role. The best way to get better at this stuff is to ask for resumes of other peeps who are currently working in your preferred domain.
+*** Different Job Roles have different style of format for "resume". That said, if you are opting for a developer position you might need a different style of usage of keywords and format which is different from a Cybersecurity Job Role. The best way to get better at this stuff is to ask for resumes of other peeps who are currently working in your preferred domain.
   
 
 
