@@ -7,7 +7,7 @@ Grab the resumes of other ppls working on ur domain.
 use this site to enhance ur cv: https://resume.io/ 
   
 
-
+ 
 ✅
 Building a good Resume for experienced professionals:
 good read here: https://medium.com/gitconnected/the-resume-that-got-a-software-engineer-a-300-000-job-at-google-8c5a1ecff40f
